@@ -1,2 +1,2 @@
-# Git-test2
-a practice folder2
+#test 
+this is a test project to understand the github working 
